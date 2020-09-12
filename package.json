@@ -9,7 +9,7 @@
   "author": "Hugo Enamorado",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "save": "^2.4.0"
   }
 }
